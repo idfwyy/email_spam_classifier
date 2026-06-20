@@ -2,6 +2,15 @@
 
 A machine learning model that classifies SMS messages as **spam** or **ham** (legitimate), built with scikit-learn. My first ML project, following two pandas-focused analysis projects.
 
+## 🌐 Live Demo
+
+**Try the trained model in your browser:**
+👉 https://spam-classifier-app-idfwyy.streamlit.app/
+
+The deployed Streamlit app code is in a [separate repo](https://github.com/idfwyy/spam-classifier-app).
+
+
+
 ![Confusion Matrix](confusion_matrix.png)
 
 ## 🎯 Results
